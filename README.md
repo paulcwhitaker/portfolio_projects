@@ -1,6 +1,6 @@
 # portfolio_projects
 Collection of Machine Learning Projects across multiple processes and scopes
-##I. Classification
+## I. Classification
  ### a)Income Classification
   Binary classifiery for income bracket
  ### b)Particle Classification
